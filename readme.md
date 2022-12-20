@@ -7,7 +7,7 @@
 ## Команда :
 - Анна Сочнева (@annasoc)- модуль start, menu interface, add contact.
 - Дмитрий Бидюк (@Diaman21) - модуль controller, show contact.
-- Алексей Лялин (@AlexLi193)- модуль search contact, user interface.
+- Алексей Лялин ([@AlexLi193](https://github.com/alex163li/home_work7))- модуль search contact, user interface.
 - Виктория Мордвинова (@vikivrazovski) readme, блок-схема.
 ***
 ## Блок-схема
